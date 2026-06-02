@@ -5,5 +5,56 @@ You are hired by an anonymous person going by "H". They're asking you to look in
 After you speak to some people he knows you find out he goes by the handle @tstraussman online. With this username you can just simply google dork it by putting "tstraussman" in Google.
 This reveals two socials, his Reddit (https://www.reddit.com/user/Tstraussman/) as well as his Twitter/X (https://x.com/TStraussman). Starting with the first question:
 
+Task 3: Let's get started...
 1. What is Thomas' favorite holiday? 
-This is a quite easy question. 
+This is a quite easy question. This will be in his Twitter bio:"Buddha used to say "Peace comes from within, not from without". But for me it comes from X-mas ☸✨". As you can see here https://ibb.co/1wZG17p.
+
+2. What is Thomas' birth date?
+For this I went into inspect element on his Reddit birthday post, this revealed he tweeted that it's his birthday and that he turned 30 on 20th of December, 2020. So, his birth date was December 20th of 1990.
+
+3. What is Thomas' fiancee's Twitter handle?
+For this I searched his Twitter handle on Twitter, this lead to this tweet: https://ibb.co/Z6WLPjPG. Showing that his fiancee's Twitter handle is @FHodgelink.
+
+4. What is Thomas' background picture of?
+Simply by looking at his Twitter you can see that it's Buddha, which he also mentioned in his bio.
+
+The second part I skipped through as Spiderfoot wasn't working for me at all, and it seemed pretty useless to me.
+
+
+
+Task 5: Connections, Connections...
+1. Where did Thomas and his fiancee vacation to?
+For this you go to his fiancee's Twitter, she posted a picture of their vacation. Using RevEye on this image it'll show countless of results that it's in Koblenz, Germany.
+
+2. When is Francesca's Mother's birthday? (without the year)
+For this she tweeted it, https://ibb.co/kVdLKDML.
+
+3. What is the name of their cat?
+Same as the previous question, by looking through her Twitter you see a tweet with "My precious lil furbaby - Gotank", with an image of her cat.
+
+4. What show does Francesca like to watch?
+These are her most recent tweet/retweet. It's a show named 90 day Fiance.
+
+
+
+Task 6: Turn back the clock...
+1. What is the name of Thomas' coworker?
+This was quite a challenge, for this I went to https://old.reddit.com/user/Tstraussman/comments/kh1pzg/big_thank_you/. This is Thomas' post, then I used the waybackmachine and went to the oldest result. This showed a commment from @minikhans saying "Hey, It's Hans from work. Congrats!!". https://ibb.co/XxCp9H9P
+
+2. Where does his coworker live?
+Going to Hans' current profile on the new reddit https://www.reddit.com/user/minikhans, shows his bio being "Nuuk is the best", and he mentioned living in Greenland. Put the dots together and you can tell he's from Nuuk, Greenland. Just like his co-worker Thomas.
+
+3. What is the paste ID for the link we found? (flag format)
+This took me quite some time, for this I went to the waybackmachine and look at Hans' profile. This lead me to https://web.archive.org/web/20210323231748/https://old.reddit.com/user/minikhans/. This revealed a Ghostbin link: https://ghostbin.com/paste/ww4ju. ww4ju being the paste ID.
+
+4. Password for the next link? (flag format)
+If you open the ghostbin link in the waybackmachine it shows you that there's a password in it too: https://ibb.co/842Z3873. The answer is "1qaz2wsx".
+
+5. What is the name of Thomas' mistress?
+If you go back to the waybackmachine and add the ghostbin new link from the file with the password after it being: https://ghostbin.com/paste/JENxv/1qaz2wsx you get to an extortion threat: https://ibb.co/jCmvCjk. This shows off that name of Thomas' mistress is Emilia Moller.
+
+6. What is Thomas' Email address?
+In the same image as the previous question it also shows Thomas' email: straussmanthom@mail.com
+
+
+This was the walk through of the KaffeeSec SoMeSINT challenge :)
